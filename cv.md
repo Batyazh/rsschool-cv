@@ -27,16 +27,13 @@ I have learned more than in the last three years. And most importantly, I love i
 * Skill to work in team;
 * Ambition.
 ## Code example:
-```
-
-let ques=prompt ("Link to the school's learning platform?", "");
+```let ques=prompt ("Link to the school's learning platform?", "");
 
 if (ques == "https://app.rs.school/") {
     alert ('correct');
 } else {
     alert ('wrong. it's https://app.rs.school/');
 }
-
 ```
 ## Work experience:
 *no work experience in this area yet*
