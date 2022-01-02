@@ -26,7 +26,6 @@ I have learned more than in the last three years. And most importantly, I love i
 * Desire for personal and career growth; 
 * Skill to work in team;
 * Ambition.
-*******
 ## Code example:
 ```let ques=prompt ("Link to the school's learning platform?", "");
 
