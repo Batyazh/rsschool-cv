@@ -1,6 +1,32 @@
-.main {
-    font-size: 40px;
-    color: rgb(145, 145, 145);
-    text-align: center;
-    font-weight: bold;
+body {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 1200px;
+    margin: 20px 700px;
+    box-shadow: 0 35px 55px 0 rgba(0, 0, 0, 0.1);
+}
+
+.left-colunm {
+    min-width: 300px;
+    background: #BF8BDC;
+    flex-direction: column;
+}
+
+.right-colunm {
+    min-width: 600px;
+    background: #ffffff;
+    flex-direction: column;
+}
+
+header img {
+    border: 6px solid #ffffff;
+    margin :20px 0px 0px 50px;
+    border-radius: 50%;
 }
