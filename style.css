@@ -30,3 +30,22 @@ header img {
     margin :20px 0px 0px 50px;
     border-radius: 50%;
 }
+
+.line {
+    width: 270px;
+    height: 5px;
+    margin: 15px;
+    background-color: #ffffff;
+  }
+
+.section {
+    font: bold 24px Verdana, sans-serif; position: relative; color: #ffffff;
+    padding: 5px;
+    margin: 5px;
+}
+
+.right-section {
+    font: bold 24px Verdana, sans-serif; position: relative; color: #424242;
+    padding: 5px;
+    margin: 5px;
+}
