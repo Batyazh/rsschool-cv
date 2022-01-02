@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
     width: 1000px;
     height: 1220px;
-    margin: 2% 40% 0% 40%;
+    margin: 1% auto 0% auto;
     box-shadow: 0 35px 55px 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -75,7 +75,7 @@ header img {
    display: flex;
    justify-content: space-between;
    padding: 15px;
-   margin: 0% 40% 0% 40%;
+   margin: 0% auto 0% auto;
    width: 970px;
    height: 30px;
    background-color: #424242;
