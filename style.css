@@ -1,15 +1,14 @@
 body {
     box-sizing: border-box;
-    background-color: antiquewhite;
-    
+    background-color: antiquewhite;  
 }
 
 .container {
     display: flex;
     justify-content: space-between;
     width: 1000px;
-    height: 1250px;
-    margin: 20px 700px;
+    height: 1220px;
+    margin: 20px 700px 0px 700px;
     box-shadow: 0 35px 55px 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -70,4 +69,19 @@ header img {
     padding: 20px;
     color: #ffffff;
     text-align: left;
+}
+
+.footer {
+   display: flex;
+   justify-content: space-between;
+   padding: 15px;
+   margin: 0px 700px 0px 700px;
+   width: 970px;
+   height: 30px;
+   background-color: #424242;
+}
+
+.footer-rs {
+    margin: 0px 180px 0px 100px;
+    color: #ffffff;
 }
