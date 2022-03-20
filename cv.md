@@ -5,7 +5,7 @@
 * GitHub: [Batyazh](https://github.com/Batyazh)                           
 * Discord: (@Batyazh)                            
 * Phone: +380 97 029 42 69                         
-* Telegram: @unicornfucker  
+* Telegram: @unicornfucker 
 ## About me:
 For the last three years I have been working in a field that requires almost no study of new material and high intellectual abilities. 
 Yes, it's simple, but over time you realize that you are not just not learning anything, you start to degrade. 
@@ -27,14 +27,14 @@ I have learned more than in the last three years. And most importantly, I love i
 * Skill to work in team;
 * Ambition;
 ## Code example
-```let ques=prompt ("Link to the school's learning platform?", "");
+    ```let ques=prompt ("Link to the school's learning platform?", "");    
 
-    if (ques == "https://app.rs.school/") {    
-    alert ('correct');
-} else {    
-    alert ('wrong. it's https://app.rs.school/');    
-}
-```
+        if (ques == "https://app.rs.school/") {    
+            alert ('correct');    
+        } else {    
+            alert ('wrong. it's https://app.rs.school/');    
+}```
+
 ## Work experience:
 *no work experience in this area yet*
 ## Education:
